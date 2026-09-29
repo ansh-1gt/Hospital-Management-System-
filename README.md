@@ -182,7 +182,7 @@ Through this project, I practiced:
 * Using Git and GitHub
 * Testing and debugging Python programs
 
-## Author
+## Name
 
 **Ansh Gujar**
 
