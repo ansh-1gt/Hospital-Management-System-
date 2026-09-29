@@ -1,0 +1,10 @@
+def show_menu():
+    print("\n")
+    print("===== Hospital Management System =====")
+    print("1. Add Patient")
+    print("2. Show Patients")
+    print("3. Find Patient")
+    print("4. Book Appointment")
+    print("5. Show Appointments")
+    print("6. Exit")
+    print("======================================")
