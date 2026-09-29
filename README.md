@@ -45,11 +45,9 @@ This project uses basic Python concepts such as:
 Hospital-Management-System/
 │
 ├── main.py
-├── patients.py
-├── doctors.py
+├── patient.py
 ├── appointments.py
-├── billing.py
-├── file_handler.py
+├── functions.py
 │
 ├── data/
 │   ├── patients.txt
@@ -60,8 +58,7 @@ Hospital-Management-System/
 │   └── test_project.py
 │
 ├── README.md
-├── statement.md
-└── .gitignore
+└── statement.md
 ```
 
 ## How to Run
@@ -139,7 +136,7 @@ The appointment details can then be displayed in the system.
 
 ## Testing
 
-The project includes basic testing to check important parts of the program, such as patient information, appointment data, and billing calculations.
+The project includes basic testing to check important parts of the program, such as patient information, and appointment data.
 
 Testing helps make sure that the main features work correctly.
 
@@ -183,7 +180,6 @@ Through this project, I practiced:
 * Testing and debugging Python programs
 
 ## Name
-
 **Ansh Gujar**
 
 This project was created as part of a Python learning project.
